@@ -1,0 +1,1555 @@
+﻿  Map01.cpp
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(16,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(16,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(23,98): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(23,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(23,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(149,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(149,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(150,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(150,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(151,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(151,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(152,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(152,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(153,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(153,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(154,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(154,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(155,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(155,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(156,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(156,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(157,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(157,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(158,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(158,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(159,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(159,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(160,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(160,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(161,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(161,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(172,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map01.cpp(172,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Map02.cpp
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(16,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(16,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(23,98): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(23,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(23,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(26,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(26,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(27,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(27,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(28,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(28,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(29,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(29,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(30,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(30,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(31,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(31,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(32,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(32,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(33,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(33,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(34,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(34,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(35,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(35,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(36,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(36,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(37,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(37,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(38,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(38,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(39,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(39,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(40,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(40,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(43,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(43,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(54,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(54,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(55,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(55,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(56,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(56,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(57,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(57,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(58,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(58,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(59,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(59,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(60,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(60,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(61,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(61,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(62,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(62,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(63,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(63,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(64,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(64,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(65,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(65,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(66,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(66,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(67,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(67,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(68,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(68,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(69,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(69,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(70,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(70,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(71,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(71,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(82,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map02.cpp(82,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Map03.cpp
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(16,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(16,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(23,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(23,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(24,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(24,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(25,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(25,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(26,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(26,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(27,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(27,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(28,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(28,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(39,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(39,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(40,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(40,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(41,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(41,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(42,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(42,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(43,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(43,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(44,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(44,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(45,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(45,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(46,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(46,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(47,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(47,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(48,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(48,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(49,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(49,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(50,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(50,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(51,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(51,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(52,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(52,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(53,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(53,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(54,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(54,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(55,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(55,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(66,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map03.cpp(66,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Map04.cpp
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(16,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(16,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(24,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(24,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(24,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(25,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(25,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(25,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(26,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(26,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(26,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(27,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(27,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(27,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(28,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(28,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(28,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(29,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(29,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(29,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(30,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(30,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(30,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(31,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(31,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(31,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(32,83): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(32,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(32,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(35,68): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(35,38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(35,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(47,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(47,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(48,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(48,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(49,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(49,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(50,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(50,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(51,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(51,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(52,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(52,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(53,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(53,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(54,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(54,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(55,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(55,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(56,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(56,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(57,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(57,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(58,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(58,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(59,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(59,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(60,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(60,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(61,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(61,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(62,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(62,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(63,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(63,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(64,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(64,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(65,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(65,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(66,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(66,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(67,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(67,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(68,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(68,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(69,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(69,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(70,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(70,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(81,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(81,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map04.cpp(185,137): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Map05.cpp
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(16,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(16,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(24,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(24,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(24,95): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(25,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(25,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(25,95): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(26,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(26,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(26,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(27,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(27,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(27,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(28,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(28,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(28,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(29,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(29,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(29,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(30,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(30,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(30,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(31,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(31,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(31,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(32,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(32,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(32,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(33,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(33,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(33,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(34,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(34,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(34,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(48,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(48,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(61,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map05.cpp(61,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Map06.cpp
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(16,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(16,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(25,102): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(25,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(31,92): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(31,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(33,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(33,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(44,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(44,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(45,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(45,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(46,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(46,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(47,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(47,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(48,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(48,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(49,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(49,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(50,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(50,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(62,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map06.cpp(62,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Map07.cpp
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(16,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(16,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(45,102): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(45,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(51,92): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(51,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(53,86): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(53,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(55,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(55,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(68,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(68,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(72,72): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(72,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(85,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Map07.cpp(85,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  MapEnd.cpp
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\MapEnd.cpp(20,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\MapEnd.cpp(20,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  PSFloat.cpp
+  PSGoin.cpp
+  MapManager.cpp
+  Player.cpp
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Player.cpp(95,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameObjects\Player.cpp(95,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  PSDead.cpp
+  PSFall.cpp
+  PSIdle.cpp
+  PSJump.cpp
+  PSRun.cpp
+  GameStateBase.cpp
+  GSEnd.cpp
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameStateManager\GSEnd.cpp(49,74): warning C4305: 'argument': truncation from 'double' to 'float'
+  GSPause.cpp
+C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\Test-Game\Source\GameStateManager\GSPause.cpp(32,27): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Compiling...
+  GSPlay.cpp
+  Generating Code...
+  Test-Game.vcxproj -> C:\Users\ADMIN\Documents\.Code C++\.ProPTIT\OOP\Game C++\Test-SFML\Test-Game\x64\Debug\Test-Game.exe
